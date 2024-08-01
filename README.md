@@ -2,14 +2,6 @@
 
 This project allows users to upload PDF files, process them, and chat with the content using a free LLM API. The application is built using Streamlit and various Python libraries for PDF processing, embeddings, and conversational AI.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Main Components](#main-components)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
 
 ## Installation
 

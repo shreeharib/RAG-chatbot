@@ -1,5 +1,8 @@
 # Chat with PDF using Free LLM API and Streamlit
 
+![ragapp-flowspotdraft](https://github.com/user-attachments/assets/1ec32f93-f8e5-4b50-8b73-6485fd6536d1)
+![Demo, proof](https://github.com/user-attachments/assets/053eb907-6581-4acb-b0ec-32f9094df760)
+
 This project allows users to upload PDF files, process them, and chat with the content using a free LLM API. The application is built using Streamlit and various Python libraries for PDF processing, embeddings, and conversational AI.
 
 

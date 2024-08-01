@@ -29,3 +29,11 @@ To run this project, you'll need to have Python installed on your machine. Follo
    ```bash
 streamlit run Finaldoc.py
    ```
+
+# Upload PDF Files:
+•Use the sidebar to upload one or more PDF files.
+•Click the “Submit & Process” button to process the files.
+
+# Ask Questions:
+•Use the chat input to ask questions about the content of the uploaded PDF files.
+•The application will process your question and return a detailed answer based on the content of the PDFs and the AI model.

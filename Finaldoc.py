@@ -16,7 +16,7 @@ from cachetools import cached, LRUCache
 import re
 
 load_dotenv()
-genai.configure(api_key="AIzaSyBrerOkXhkxcDIiSJa_rN98CODRlVq16M")
+genai.configure(api_key="your_api_key")
 memory = ConversationBufferMemory(memory_key="chat_history")
 
 # Cache for repeated queries

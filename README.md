@@ -9,8 +9,8 @@ To run this project, you'll need to have Python installed on your machine. Follo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chat-with-pdf.git
-   cd chat-with-pdf
+   git clone https://github.com/shreeharib/RAG-chatbot.git
+   cd RAG-chatbot
    ```
   
 2.	Install the required dependencies:

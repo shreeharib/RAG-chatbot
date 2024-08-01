@@ -1,6 +1,9 @@
 streamlit
 google-generativeai
 python-dotenv
-pdf2image
-langchain_chroma
-langchain_google_genai
+PyPDF2
+langchain-chroma
+langchain-google-genai
+langchain
+langchain-community
+faiss-cpu
